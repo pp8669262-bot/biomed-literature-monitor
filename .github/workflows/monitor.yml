@@ -1,0 +1,49 @@
+name: 生物医药顶刊文献监控
+
+on:
+  # 每天北京时间早上8点运行（UTC 0点）
+  schedule:
+    - cron: '0 0 * * *'
+  # 支持手动触发
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    env:
+      FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+      FEISHU_SECRET: ${{ secrets.FEISHU_SECRET }}
+      AI_API_KEY: ${{ secrets.AI_API_KEY }}
+      TZ: Asia/Shanghai
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 运行文献监控
+        run: python pubmed_monitor.py --once
+        continue-on-error: true
+
+      - name: 提交已推送记录
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add seen_pmids.json
+          if git diff --cached --quiet; then
+            echo "没有新文献，无需提交"
+          else
+            git commit -m "chore: 更新已推送文献记录 [skip ci]"
+            git push
+          fi
