@@ -1,0 +1,59 @@
+{
+  "feishu_webhook": "https://open.feishu.cn/open-apis/bot/v2/hook/105a2bc0-80f1-4ee0-b4d2-9823c94f7870",
+  "feishu_secret": "",
+  "ai_api_key": "",
+  "ai_api_base": "https://ark.cn-beijing.volces.com/api/v3",
+  "ai_model": "doubao-1-5-pro-32k-250115",
+  "check_days": 3,
+  "max_articles_per_journal": 5,
+  "max_total_articles": 50,
+  "seen_file": "seen_pmids.json",
+  "log_file": "monitor.log",
+  "journals": {
+    "综合顶刊 (CNS)": [
+      "Nature",
+      "Science",
+      "Cell"
+    ],
+    "医学顶刊": [
+      "New England Journal of Medicine",
+      "Lancet",
+      "JAMA",
+      "BMJ"
+    ],
+    "Nature 子刊": [
+      "Nature Medicine",
+      "Nature Biotechnology",
+      "Nature Genetics",
+      "Nature Biomedical Engineering",
+      "Nature Cell Biology",
+      "Nature Cancer",
+      "Nature Microbiology",
+      "Nature Immunology",
+      "Nature Neuroscience"
+    ],
+    "Cell 子刊": [
+      "Cancer Cell",
+      "Immunity",
+      "Neuron",
+      "Cell Stem Cell",
+      "Molecular Cell",
+      "Cell Metabolism",
+      "Cell Host & Microbe"
+    ],
+    "其他重要期刊": [
+      "PNAS",
+      "Cell Research",
+      "Blood",
+      "Circulation",
+      "Genome Biology",
+      "Genome Research"
+    ],
+    "国内顶级期刊": [
+      "Science China Life Sciences",
+      "Journal of Molecular Cell Biology",
+      "Acta Pharmacologica Sinica",
+      "Chinese Medical Journal"
+    ]
+  }
+}
