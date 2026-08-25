@@ -3,7 +3,7 @@
   "feishu_secret": "",
   "ai_api_key": "",
   "ai_api_base": "https://ark.cn-beijing.volces.com/api/v3",
-  "ai_model": "doubao-1-5-pro-32k-250115",
+  "ai_model": "ep-20260825153134-6htcd",
   "check_days": 3,
   "max_articles_per_journal": 5,
   "max_total_articles": 50,
