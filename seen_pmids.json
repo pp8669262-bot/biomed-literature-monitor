@@ -871,5 +871,257 @@
     "journal": "Chin Med J (Engl)",
     "date": "2026-08-29",
     "pushed": true
+  },
+  "42664972": {
+    "title": "Genome-scale perturb-seq in primary human CD4+ T cells maps context-specific reg",
+    "journal": "Cell",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42664971": {
+    "title": "Human nuclear ribomes reveal DNA-embedded ribonucleotides as epigenetic modulato",
+    "journal": "Cell",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42664980": {
+    "title": "Deep and durable lipoprotein(a) lowering: Kylo-11 advances RNA interference ther",
+    "journal": "Lancet",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42664979": {
+    "title": "Safety and lipoprotein(a)-lowering effects of Kylo-11, a non-canonical, long-dur",
+    "journal": "Lancet",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42667614": {
+    "title": "Small Gains but Persistent Gaps in Statin Adherence.",
+    "journal": "JAMA",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42667613": {
+    "title": "Digital Outreach to Improve Statin Refills in Patients With Low Statin Adherence",
+    "journal": "JAMA",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42667612": {
+    "title": "Digital Outreach to Improve Statin Refills in Patients With Low Statin Adherence",
+    "journal": "JAMA",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42667231": {
+    "title": "Pulmonary Vein Isolation Using Pulsed Field Ablation With vs Without Posterior W",
+    "journal": "JAMA",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42667228": {
+    "title": "Pulmonary Vein Isolation Using Pulsed Field Ablation With vs Without Posterior W",
+    "journal": "JAMA",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665328": {
+    "title": "Ebola: WHO declares Uganda free of virus, but doctors express reservations about",
+    "journal": "BMJ",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665327": {
+    "title": "Rohingya refugees remain trapped in a deadly limbo nine years after fleeing pers",
+    "journal": "BMJ",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665326": {
+    "title": "Cosmic radiation and breast cancer: Flight attendant's disease was triggered by ",
+    "journal": "BMJ",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665685": {
+    "title": "Precise genomic integration of large DNA fragments by donor-directed annealing u",
+    "journal": "Nat Biotechnol",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665684": {
+    "title": "Donor-complementary prime editing enables precise kilobase and library-compatibl",
+    "journal": "Nat Biotechnol",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665683": {
+    "title": "Megascale microbiome analysis with DartUniFrac.",
+    "journal": "Nat Biotechnol",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665682": {
+    "title": "Engineered bacterial siderophore production accelerates rock weathering for carb",
+    "journal": "Nat Biotechnol",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665646": {
+    "title": "Data-centric feedback loops for next-generation immunotherapy development.",
+    "journal": "Nat Biomed Eng",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42664964": {
+    "title": "Axes of biological variation in diffuse large B cell lymphoma.",
+    "journal": "Cancer Cell",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42664960": {
+    "title": "A distinct effector B cell population drives autoantibody production in SARS-CoV",
+    "journal": "Immunity",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42664959": {
+    "title": "Temporal analyses of immune responses in sepsis reveal asynchrony between clinic",
+    "journal": "Immunity",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42664973": {
+    "title": "A bifunctional optical reporter for tracking estrogen response dynamics in neuro",
+    "journal": "Neuron",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42664969": {
+    "title": "HoT auto-blinking probes enable real-time, super-resolution chromatin imaging in",
+    "journal": "Mol Cell",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42664968": {
+    "title": "CONCR lncRNA organizes a 3'-end structural domain that engages DDX11 for DNA rep",
+    "journal": "Mol Cell",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42664967": {
+    "title": "dsRNAscan maps human dsRNAome, revealing conservation, intermolecular dsRNA, and",
+    "journal": "Mol Cell",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42664966": {
+    "title": "Oriented binding of transcription factors to nucleosomes remodels chromatin at h",
+    "journal": "Mol Cell",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42664965": {
+    "title": "Intragenomic homologs with distinct phase behaviors broaden the range of cellula",
+    "journal": "Mol Cell",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42664974": {
+    "title": "Host metadherin coordinates hepatic lipid metabolism and CD8+ T cell immunity to",
+    "journal": "Cell Metab",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665679": {
+    "title": "Long noncoding RNAs cross kingdoms to broaden host-pathogen dialogue.",
+    "journal": "Cell Res",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42667274": {
+    "title": "Effect of Aficamten on Cardiac Structure and Function in Patients with Symptomat",
+    "journal": "Circulation",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42667206": {
+    "title": "Tocilizumab Is Associated With a Lower Incidence of Major Adverse Cardiovascular",
+    "journal": "Circulation",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42666029": {
+    "title": "Long-Term Effectiveness of Intensive Blood Pressure Management Led by Nonphysici",
+    "journal": "Circulation",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665836": {
+    "title": "Protein-protein interaction network architecture of human polygenic traits revea",
+    "journal": "Genome Biol",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665446": {
+    "title": "Robust annotation and discovery of novel cell types in single-cell ATAC-seq data",
+    "journal": "Genome Res",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665445": {
+    "title": "Identification of differential topologically associating domains from low sequen",
+    "journal": "Genome Res",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665444": {
+    "title": "Quartet-based species tree methods enable fast and consistent tree of blobs reco",
+    "journal": "Genome Res",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42667364": {
+    "title": "MAD2B guides chromosome stability in mitosis via the MAD2B-CIP2A signaling axis.",
+    "journal": "J Mol Cell Biol",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42667363": {
+    "title": "Jer1-Ga2-LpR1 axis mediates upstream input of alpha-mannosidosis.",
+    "journal": "J Mol Cell Biol",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665995": {
+    "title": "Novel targeted therapy and cellular immunotherapy enabling allogeneic hematopoie",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665979": {
+    "title": "Biomaterials for metabolic reprogramming in skeletal disorders.",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665975": {
+    "title": "Integrating environmental and behavioral tracking via digital health systems for",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665968": {
+    "title": "Brain-kidney connection: Impact on cerebral blood flow with estimated glomerular",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-08-30",
+    "pushed": true
+  },
+  "42665963": {
+    "title": "Association of dietary lecithin intake with mild cognitive impairment and cognit",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-08-30",
+    "pushed": true
   }
 }
