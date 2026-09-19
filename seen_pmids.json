@@ -4417,5 +4417,305 @@
     "journal": "Genome Biol",
     "date": "2026-09-18",
     "pushed": true
+  },
+  "42754698": {
+    "title": "Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethali",
+    "journal": "Nature",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753735": {
+    "title": "Toward autonomous science with agentic artificial intelligence.",
+    "journal": "Cell",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753734": {
+    "title": "Phosphate backbone epitranscriptomics: Discovery of natural RNA phosphorothioate",
+    "journal": "Cell",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753698": {
+    "title": "An open benchmark and language models for AI in aging biology.",
+    "journal": "Cell",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753697": {
+    "title": "Tahoe-100M: Mapping drug-induced molecular phenotypes at single-cell resolution.",
+    "journal": "Cell",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753696": {
+    "title": "scBaseCount: An AI agent-curated, standardized, auto-updated single-cell data re",
+    "journal": "Cell",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753775": {
+    "title": "Switch to injectable cabotegravir-rilpivirine given every 8 weeks in adolescents",
+    "journal": "Lancet",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753763": {
+    "title": "Department of Error.",
+    "journal": "Lancet",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42758512": {
+    "title": "Updated Stroke Guideline Emphasizes Early, Holistic Intervention.",
+    "journal": "JAMA",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42758503": {
+    "title": "Caffeine and Cardiovascular Health: What the Science Says.",
+    "journal": "JAMA",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42758501": {
+    "title": "How Do Cardiovascular Risks Vary Across Nicotine Products?",
+    "journal": "JAMA",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42758500": {
+    "title": "As More Adults Seek ADHD Care, Primary Care Clinicians Are Tasked With Getting t",
+    "journal": "JAMA",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42758499": {
+    "title": "FDA Approves 2 New Alzheimer Disease Blood Tests.",
+    "journal": "JAMA",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754302": {
+    "title": "Doctor suicide: Online memorial for health and care workers is launched.",
+    "journal": "BMJ",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754298": {
+    "title": "Assisted dying: Jersey won't be a \"Dignitas-style model\" for Brits, says Sarah W",
+    "journal": "BMJ",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754728": {
+    "title": "Levetiracetam therapeutically targets GABAergic synapses in diffuse midline glio",
+    "journal": "Nat Med",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754737": {
+    "title": "Gene editing using large insertions.",
+    "journal": "Nat Biotechnol",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754710": {
+    "title": "In vivo CRISPRi screens reveal Escherichia coli functional adaptations in the mo",
+    "journal": "Nat Microbiol",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754709": {
+    "title": "Functional capacities drive recruitment of bacteria into plant root microbiota.",
+    "journal": "Nat Microbiol",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754708": {
+    "title": "Sequential gene loss promotes expansion of monophasic Salmonella Typhimurium ST3",
+    "journal": "Nat Microbiol",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754707": {
+    "title": "Bacterial growth rate in populations and single cells.",
+    "journal": "Nat Microbiol",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754706": {
+    "title": "AP2-HS and a GDV1 regulatory feedback loop mediate environmental induction of se",
+    "journal": "Nat Microbiol",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754741": {
+    "title": "Spatiotemporal single-cell profiling reveals T cell clonal dynamics and phenotyp",
+    "journal": "Nat Immunol",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753737": {
+    "title": "Beyond genes and hotspots: Protein-informed interpretation of cancer mutations.",
+    "journal": "Cancer Cell",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753736": {
+    "title": "Myeloid reprogramming generates myeloid-derived activating cells to potentiate r",
+    "journal": "Cancer Cell",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753739": {
+    "title": "Cancers modulate processing and presentation of p53 neoantigens to evade T cell ",
+    "journal": "Immunity",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753729": {
+    "title": "Brainstem sensing of multiple body signals during food consumption.",
+    "journal": "Neuron",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753728": {
+    "title": "Post-inhibitory rebound firing promotes hypothalamic activation during male mati",
+    "journal": "Neuron",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753738": {
+    "title": "Genomic and transcriptomic quality control for an autologous iPSC-derived cell t",
+    "journal": "Cell Stem Cell",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753721": {
+    "title": "De novo-engineered guide RNA-directed transposition with TnpB-family proteins.",
+    "journal": "Mol Cell",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753705": {
+    "title": "Combinatorial deep mutational scanning uncovers protein superbinders and molecul",
+    "journal": "Mol Cell",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753704": {
+    "title": "Molecular mechanism of HUWE1-HAPSTR1-USP7-mediated ubiquitin chain amplification",
+    "journal": "Mol Cell",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753703": {
+    "title": "A splicing checkpoint licenses resistosome assembly.",
+    "journal": "Mol Cell",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753702": {
+    "title": "How to grow a filament: Lessons from the RAD51 paralogs toolbox.",
+    "journal": "Mol Cell",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753730": {
+    "title": "Zonated cholesterol sensing by SIRT2 drives MASLD-HCC.",
+    "journal": "Cell Metab",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42753722": {
+    "title": "Dietary pectin remodels commensal bacterial surfaces to promote IgA-mediated pro",
+    "journal": "Cell Host Microbe",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42758645": {
+    "title": "Intensive Chemotherapy and Tyrosine Kinase Inhibitor in Patients with De Novo BC",
+    "journal": "Blood",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754892": {
+    "title": "dicast: a machine learning method for accurate structural variant detection from",
+    "journal": "Genome Biol",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754397": {
+    "title": "CircExor enables interpretable prediction of circRNA localization into extracell",
+    "journal": "Genome Res",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42749491": {
+    "title": "Unifying multimodal single-cell data with a mixture-of-experts β-variational aut",
+    "journal": "Genome Res",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42749490": {
+    "title": "SwinePan for pig graph-based pangenome and multiomics data mining.",
+    "journal": "Genome Res",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42749489": {
+    "title": "Combined effects of Ret coding and enhancer loss-of-function alleles cause progr",
+    "journal": "Genome Res",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42749488": {
+    "title": "Dual-contrastive learning for spatial domain identification in spatial transcrip",
+    "journal": "Genome Res",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754703": {
+    "title": "Small-molecule-induced neuron-specific hypoxia: recapitulating developmental ang",
+    "journal": "Acta Pharmacol Sin",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754702": {
+    "title": "Neutrophil extracellular traps in liver diseases: from molecular mechanisms to t",
+    "journal": "Acta Pharmacol Sin",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42755378": {
+    "title": "Bacteriophages in humans: From discovery and mechanisms to therapeutic promise i",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754954": {
+    "title": "Advancements and future directions in transforming therapies of prostate cancer.",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754823": {
+    "title": "IL-11 drives Treg cell differentiation by activating the MBD3/APOH-mediated fatt",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754818": {
+    "title": "Sublethal heat stress-induced HSF4 upregulation via GRSF1 in an m6A-dependent ma",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-09-19",
+    "pushed": true
+  },
+  "42754577": {
+    "title": "E2F7 promotes lung adenocarcinoma progression by affecting phosphorylation and s",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-09-19",
+    "pushed": true
   }
 }
