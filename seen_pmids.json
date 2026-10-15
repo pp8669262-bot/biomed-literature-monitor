@@ -8545,5 +8545,305 @@
     "journal": "Chin Med J (Engl)",
     "date": "2026-10-14",
     "pushed": true
+  },
+  "42869023": {
+    "title": "A high-dimensional population code in the bat motor cortex during natural dexter",
+    "journal": "Cell",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869022": {
+    "title": "PTPRS mediates invasion of tetanus neurotoxin into the central nervous system.",
+    "journal": "Cell",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869021": {
+    "title": "Mechanisms of transcription control by distal enhancers from single-gene nanosco",
+    "journal": "Cell",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869020": {
+    "title": "Rare k-mers reveal centromere haplogroups underlying human diversity and cancer ",
+    "journal": "Cell",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42873534": {
+    "title": "Intravenous Vitamin C and Mortality and Organ Dysfunction in Severe Burn Injury.",
+    "journal": "JAMA",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42873533": {
+    "title": "What Is an Autopsy?",
+    "journal": "JAMA",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42873532": {
+    "title": "Glomerular Filtration Rates and Risk of Adverse Health Outcomes.",
+    "journal": "JAMA",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42873529": {
+    "title": "Physician Training for the AI Era: Rethinking a Century-Old Wager.",
+    "journal": "JAMA",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42873526": {
+    "title": "Etiology.",
+    "journal": "JAMA",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869610": {
+    "title": "Plague: Russian authorities must show \"full transparency\" over lab worker's deat",
+    "journal": "BMJ",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869603": {
+    "title": "Marmot review for Scotland sets out blueprint to reverse widening health inequal",
+    "journal": "BMJ",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869574": {
+    "title": "RFK Jr opens NIH clinic to investigate vaccine injuries, announces reporting ref",
+    "journal": "BMJ",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869996": {
+    "title": "Characterizing the onset and progression of cancer cachexia using routine clinic",
+    "journal": "Nat Med",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869995": {
+    "title": "Autologous and broadly neutralizing antibodies drive ART-free HIV control.",
+    "journal": "Nat Med",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869994": {
+    "title": "Human-artificial intelligence collaboration for comanaging epilepsy in real time",
+    "journal": "Nat Med",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42870042": {
+    "title": "In vivo engineering of CAR natural killer cells for immunotherapy using ligand-d",
+    "journal": "Nat Biotechnol",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42870041": {
+    "title": "Proteomic aging clocks go to trial.",
+    "journal": "Nat Biotechnol",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869988": {
+    "title": "Clonal heterogeneity in human pancreatic ductal adenocarcinoma and its impact on",
+    "journal": "Nat Genet",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869978": {
+    "title": "Interpretable AI model reveals spatial codes of cell recruitment in tissues.",
+    "journal": "Nat Biomed Eng",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869977": {
+    "title": "Repurposing adult AI radiograph models for neonatal care through continual learn",
+    "journal": "Nat Biomed Eng",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42870045": {
+    "title": "Author Correction: Monocyte-derived galectin-1hi cells provide innate immune hel",
+    "journal": "Nat Immunol",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42870044": {
+    "title": "A unique and equity-driven approach to immunology education in low- and middle-i",
+    "journal": "Nat Immunol",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42870009": {
+    "title": "Author Correction: T cell-mediated microglial activation triggers myelin patholo",
+    "journal": "Nat Neurosci",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42868996": {
+    "title": "Astrocytes go into presenter mode.",
+    "journal": "Immunity",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42868995": {
+    "title": "The narrow path to CD8+ T cell recognition of mutant p53.",
+    "journal": "Immunity",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42868994": {
+    "title": "Regulatory B cells: Induced, inspired, and ready to soothe neuroinflammation.",
+    "journal": "Immunity",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42868993": {
+    "title": "The nerve rings twice.",
+    "journal": "Immunity",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42868992": {
+    "title": "The matrix remembers.",
+    "journal": "Immunity",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869027": {
+    "title": "A cross-species AAV platform for precise microglial interrogation.",
+    "journal": "Neuron",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869019": {
+    "title": "Single-cell CRISPR screen maps epigenetic regulators of lineage specification an",
+    "journal": "Cell Stem Cell",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869018": {
+    "title": "Rapid CAR-T manufacturing with low-intensity priming enhances CAR-T cell fitness",
+    "journal": "Cell Stem Cell",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869017": {
+    "title": "Mouse Cutaneous Melanoma Induced by Mutant BRaf Arises from Expansion and Dediff",
+    "journal": "Cell Stem Cell",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869016": {
+    "title": "Transplantation of Expanded Fetal Intestinal Progenitors Contributes to Colon Re",
+    "journal": "Cell Stem Cell",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869010": {
+    "title": "A feedback mechanism of m6A via PARP1-mediated ADP ribosylation of METTL3/METTL1",
+    "journal": "Mol Cell",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869009": {
+    "title": "Reverse transcribed ssDNA derepresses translation of a retron antiviral protein.",
+    "journal": "Mol Cell",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869008": {
+    "title": "Structural basis of directionality control in large serine integrases.",
+    "journal": "Mol Cell",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869007": {
+    "title": "Transposable element splicing reveals a tumor-enriched class of gene-independent",
+    "journal": "Mol Cell",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869012": {
+    "title": "TNF compromises intestinal bile-acid tolerance dictating colitis progression and",
+    "journal": "Cell Metab",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869011": {
+    "title": "Cancer-cell-derived fumarate suppresses the anti-tumor capacity of CD8+ T cells ",
+    "journal": "Cell Metab",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42868262": {
+    "title": "Molecular Consequences and Targeting of PPM1D Overexpression in Myeloproliferati",
+    "journal": "Blood",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42868261": {
+    "title": "Ambient oxygen disrupts amino acid homeostasis and impairs human hematopoietic s",
+    "journal": "Blood",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42868258": {
+    "title": "Germline DDX41 defines a distinct subgroup in MDS undergoing transplantation wit",
+    "journal": "Blood",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42872321": {
+    "title": "Correction to: Development and Validation of the American Heart Association's PR",
+    "journal": "Circulation",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869664": {
+    "title": "Parental genome reprogramming drives allelic convergence while preserving parent",
+    "journal": "Genome Res",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869663": {
+    "title": "Identity-by-descent captures shared environmental factors at biobank scale.",
+    "journal": "Genome Res",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869662": {
+    "title": "The divergent 3D genome landscapes of aging and neurodegenerative mouse models.",
+    "journal": "Genome Res",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869661": {
+    "title": "Reconstruction of contact signals from repeated elements with Hicberg.",
+    "journal": "Genome Res",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869579": {
+    "title": "Standardization of nomenclature for new biomedical technologies.",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869555": {
+    "title": "Perioperative care and follow-up results in laryngeal transplantation.",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-10-15",
+    "pushed": true
+  },
+  "42869495": {
+    "title": "Effect of transcutaneous auricular vagus nerve stimulation on perioperative psyc",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-10-15",
+    "pushed": true
   }
 }
