@@ -10717,5 +10717,263 @@
     "journal": "Circulation",
     "date": "2026-10-27",
     "pushed": true
+  },
+  "42933389": {
+    "title": "In vivo genome-editing therapy for Duchenne muscular dystrophy: Preclinical stud",
+    "journal": "Cell",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933461": {
+    "title": "Izalontamab brengitecan versus platinum-based chemotherapy in EGFR-mutated advan",
+    "journal": "Lancet",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933460": {
+    "title": "Sacituzumab tirumotecan versus treatment of physician's choice in previously tre",
+    "journal": "Lancet",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933459": {
+    "title": "Izalontamab brengitecan for HR+/HER2- breast cancer in China (PANKU-Breast01): a",
+    "journal": "Lancet",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933458": {
+    "title": "First-line pembrolizumab versus carboplatin plus paclitaxel in participants with",
+    "journal": "Lancet",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933457": {
+    "title": "Ruzaltatug rezetecan versus chemotherapy for EGFR-mutated advanced non-small-cel",
+    "journal": "Lancet",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42944595": {
+    "title": "JAMA Editors' Summary Podcast: October 2, 2026.",
+    "journal": "JAMA",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42944594": {
+    "title": "Holding Hope.",
+    "journal": "JAMA",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42944593": {
+    "title": "Fixed Pupils: Neurologic Finality vs Poetic Repair.",
+    "journal": "JAMA",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933810": {
+    "title": "Advances in the management of renal cell carcinoma.",
+    "journal": "BMJ",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933809": {
+    "title": "Doctors leaders slam all male panel at London Breast Meeting.",
+    "journal": "BMJ",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933808": {
+    "title": "Trump's aid cuts risk killing women around the world.",
+    "journal": "BMJ",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934329": {
+    "title": "Publisher Correction: Phenomic profiles and disease patterns of 1.9 million part",
+    "journal": "Nat Med",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934328": {
+    "title": "Author Correction: Liquid biopsy for early detection of pancreatic ductal adenoc",
+    "journal": "Nat Med",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934327": {
+    "title": "Author Correction: Sex-specific biological aging clocks across organs and omics.",
+    "journal": "Nat Med",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934326": {
+    "title": "Neoadjuvant durvalumab plus chemotherapy in resectable or borderline resectable ",
+    "journal": "Nat Med",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934279": {
+    "title": "fastGxE is a powerful method for uncovering genotype-environment interactions in",
+    "journal": "Nat Genet",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934278": {
+    "title": "Quantification method affects replicability of eQTL analysis, colocalization and",
+    "journal": "Nat Genet",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934277": {
+    "title": "Interferon-α directs hematopoietic stem cells toward competing fates.",
+    "journal": "Nat Genet",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934290": {
+    "title": "Retraction Note: Engineered outer membrane vesicles enhance solid tumour CAR-T c",
+    "journal": "Nat Biomed Eng",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934358": {
+    "title": "Bacterial steroid hormones shape coral immunity during heat stress.",
+    "journal": "Nat Microbiol",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934357": {
+    "title": "Lack of ancestral SARS-CoV-2 imprinting promotes Omicron sublineage BA.3.2.2 inf",
+    "journal": "Nat Microbiol",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934292": {
+    "title": "A CD4-lineage erythro-myeloid progenitor within the adult bone marrow defines an",
+    "journal": "Nat Immunol",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934291": {
+    "title": "The maternal-fetal interface is an early hematopoietic niche enriched in distinc",
+    "journal": "Nat Immunol",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934350": {
+    "title": "Microglial NUS1 deficiency drives dopaminergic neurodegeneration through interce",
+    "journal": "Nat Neurosci",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934349": {
+    "title": "Chronic progressive demyelination induces a microglial state with lysosomal dysf",
+    "journal": "Nat Neurosci",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933392": {
+    "title": "Finding MES: A hidden cell state in neuroblastoma.",
+    "journal": "Cancer Cell",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933395": {
+    "title": "A microbiome-reactive TMIGD2hi Th17 subset is spatially enriched at the intestin",
+    "journal": "Immunity",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933394": {
+    "title": "Human brain cellular xenografts in neuroimmunology and beyond.",
+    "journal": "Immunity",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933411": {
+    "title": "Remak bundle size, structure, and function are regulated by the Schwann cell bas",
+    "journal": "Neuron",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933405": {
+    "title": "Small genomes, big lessons: What viruses teach us about structure-based riboregu",
+    "journal": "Mol Cell",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933404": {
+    "title": "How the TREX-2 complex associates with the nuclear pore.",
+    "journal": "Mol Cell",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933403": {
+    "title": "Amyloid-mediated RNA uptake by sperm for embryonic delivery.",
+    "journal": "Mol Cell",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933402": {
+    "title": "The 9-1-1 complex protects ssDNA gaps in BRCA2-deficient cancer.",
+    "journal": "Mol Cell",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933400": {
+    "title": "UBT251, a novel triple GLP-1, GIP, and glucagon receptor agonist, in adults with",
+    "journal": "Cell Metab",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934204": {
+    "title": "ROR2 Drives Right Ventricular Heart Failure Through Disruption of Proteostasis.",
+    "journal": "Circulation",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934200": {
+    "title": "Outcomes of Hypoplastic Left Heart Syndrome by Subtype and Presence of Ventricul",
+    "journal": "Circulation",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934802": {
+    "title": "Urbanisation drives parallel genomic divergence across cities and bumble bee spe",
+    "journal": "Genome Biol",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933985": {
+    "title": "Chromosome-scale genome assembly and annotation of Octodon degus.",
+    "journal": "Genome Res",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42933984": {
+    "title": "Integration-free and cluster-free detection of localized differential gene coexp",
+    "journal": "Genome Res",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934089": {
+    "title": "An endoplasmic reticulum stress-related gene signature predicts immune therapy r",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934087": {
+    "title": "Persistent fibrosis in IgG4-related disease: Stromal mechanisms, biomarkers, and",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-10-28",
+    "pushed": true
+  },
+  "42934086": {
+    "title": "Multicenter study on VIGM regimen for the management of immune-mediated adverse ",
+    "journal": "Chin Med J (Engl)",
+    "date": "2026-10-28",
+    "pushed": true
   }
 }
