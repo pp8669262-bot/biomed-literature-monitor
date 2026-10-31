@@ -11371,5 +11371,281 @@
     "journal": "Chin Med J (Engl)",
     "date": "2026-10-30",
     "pushed": true
+  },
+  "42957863": {
+    "title": "Diet at disease onset determines tissue inflammatory memory.",
+    "journal": "Nature",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956739": {
+    "title": "Genetic coupling of floral rewards and signals underlies pollinator attraction.",
+    "journal": "Cell",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956738": {
+    "title": "Innate sensor responses set a supra-unitary threshold for viral replication.",
+    "journal": "Cell",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956717": {
+    "title": "Toward planetary microbial systems biology.",
+    "journal": "Cell",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956716": {
+    "title": "Guardians at the gate: cMAF keeps the brain's vasculature in check.",
+    "journal": "Cell",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956715": {
+    "title": "Calorie restriction uncouples mutation rate from lifespan.",
+    "journal": "Cell",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956797": {
+    "title": "A Lancet Commission on the Health and Poverty Alleviation Initiative in China.",
+    "journal": "Lancet",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956796": {
+    "title": "Performance of 0/1 h versus 0/3 h pathways in patients with suspected myocardial",
+    "journal": "Lancet",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956795": {
+    "title": "Faster troponin, same time in the emergency department: what is next for acute c",
+    "journal": "Lancet",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956794": {
+    "title": "Irritable bowel syndrome and related disorders of gut-brain interaction.",
+    "journal": "Lancet",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42961779": {
+    "title": "JAMA Editors' Summary Podcast: October 30, 2026.",
+    "journal": "JAMA",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42961445": {
+    "title": "Survey Suggests GLP-1 Drugs May Curb Alcohol Use for Many Patients.",
+    "journal": "JAMA",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42961443": {
+    "title": "Hypertensive Disorders During Pregnancy Increased 74% in the US.",
+    "journal": "JAMA",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42961441": {
+    "title": "Annual Dementia Incidence May Reach 25 Million by 2050.",
+    "journal": "JAMA",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42961439": {
+    "title": "FDA Approves New Drug to Treat Herpes Simplex Virus Lesions.",
+    "journal": "JAMA",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957213": {
+    "title": "Hundreds of GP websites crash after online provider enters administration.",
+    "journal": "BMJ",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957196": {
+    "title": "India caps mark-ups on 137 cancer drugs after court highlights 900% price differ",
+    "journal": "BMJ",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957190": {
+    "title": "RCGP does U turn on policy that put assisted dying on par with arms dealers.",
+    "journal": "BMJ",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957778": {
+    "title": "5-year outcomes of chemotherapy de-escalation in HER2-positive early breast canc",
+    "journal": "Nat Med",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957777": {
+    "title": "A clinical multimodal vision language foundation model with fine-grain explainab",
+    "journal": "Nat Med",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957776": {
+    "title": "Insights into early-onset colorectal cancer from a single-nucleus RNA-seq atlas ",
+    "journal": "Nat Med",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957836": {
+    "title": "Closing the loop on blood flow control in spinal cord injury.",
+    "journal": "Nat Biomed Eng",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957835": {
+    "title": "Optimal closed-loop feedback control of blood flow after spinal cord injury with",
+    "journal": "Nat Biomed Eng",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957785": {
+    "title": "Author Correction: Metabolic rewiring in skin epidermis drives tolerance to onco",
+    "journal": "Nat Cell Biol",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957784": {
+    "title": "Author Correction: Spatiotemporal coordination of actin regulators generates inv",
+    "journal": "Nat Cell Biol",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957783": {
+    "title": "Methylated eEF1A selectively decodes mRNA to shape cancer proteomes.",
+    "journal": "Nat Cell Biol",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957896": {
+    "title": "An agentic AI system enhances clinical detection of immune-related adverse event",
+    "journal": "Nat Cancer",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957895": {
+    "title": "AI for detection of adverse events in the real world.",
+    "journal": "Nat Cancer",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957894": {
+    "title": "A genome‑wide screen in E. coli reveals metabolic adaptations that enhance intra",
+    "journal": "Nat Cancer",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957853": {
+    "title": "Genomic analysis of early case samples from the 2025 Marburg virus outbreak in E",
+    "journal": "Nat Microbiol",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957852": {
+    "title": "A human gut-associated picobirnavirus establishes the Picobirnaviridae as the th",
+    "journal": "Nat Microbiol",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957851": {
+    "title": "Systemic exposure to typhoid toxin primes the murine vascular endothelium for in",
+    "journal": "Nat Microbiol",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957850": {
+    "title": "Planetary-scale metagenomic analysis reveals CRISPR targeting dynamics across ec",
+    "journal": "Nat Microbiol",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957847": {
+    "title": "Autophagy in macrophages curtails IL-1α-mediated immune priming against lung inf",
+    "journal": "Nat Immunol",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956743": {
+    "title": "KRASG12D-targeted therapy sensitivity depends on interferon signaling activation",
+    "journal": "Cancer Cell",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956742": {
+    "title": "A sex-specific platelet switch controls anti-tumor immunity in glioblastoma.",
+    "journal": "Cancer Cell",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956741": {
+    "title": "Intrinsic resistance to KRAS inhibition: Interfering with interferon.",
+    "journal": "Cancer Cell",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956746": {
+    "title": "Growth factor VEGF-B sustains intestinal Tfh cell stemness to restrict Taurinivo",
+    "journal": "Immunity",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956744": {
+    "title": "Niche-reprogramming CAR T therapy improves skeletal muscle regeneration and func",
+    "journal": "Cell Stem Cell",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42956747": {
+    "title": "Microbial products trigger chemosensory dialogues through intestinal G protein-c",
+    "journal": "Cell Host Microbe",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957803": {
+    "title": "Age-specific targets for T cell rejuvenation.",
+    "journal": "Cell Res",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42961046": {
+    "title": "KDM3B regulates hair follicle stem cell differentiation by activating the mTOR-d",
+    "journal": "J Mol Cell Biol",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957750": {
+    "title": "Aloperine induces methuosis in non-small cell lung cancer by targeting VPS34 lac",
+    "journal": "Acta Pharmacol Sin",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957749": {
+    "title": "Transcription factor EB as a novel target for dimethyl fumarate to restore endot",
+    "journal": "Acta Pharmacol Sin",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957748": {
+    "title": "TNF signaling at the brain-heart interface: neurovascular injury and cardiovascu",
+    "journal": "Acta Pharmacol Sin",
+    "date": "2026-10-31",
+    "pushed": true
+  },
+  "42957747": {
+    "title": "ASIC1a promotes liver fibrosis by inhibiting METTL3 SUMOylation.",
+    "journal": "Acta Pharmacol Sin",
+    "date": "2026-10-31",
+    "pushed": true
   }
 }
