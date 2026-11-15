@@ -13927,5 +13927,137 @@
     "journal": "Blood",
     "date": "2026-11-14",
     "pushed": true
+  },
+  "43020030": {
+    "title": "Disruption of cell-type-specific molecular programs of striatal spiny projection",
+    "journal": "Cell",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43025429": {
+    "title": "Cangrelor for myocardial infarction-related cardiogenic shock.",
+    "journal": "Lancet",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43026662": {
+    "title": "Fluid eMTBR-tau243 as a Biomarker of Mixed 3-Repeat and 4-Repeat Tau Pathology.",
+    "journal": "JAMA",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43025882": {
+    "title": "\"I'm not like other medics:\" deconstructing the medical student stereotype.",
+    "journal": "BMJ",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43025881": {
+    "title": "Act now to stop staff snooping on UK medical records, says data regulator.",
+    "journal": "BMJ",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43025880": {
+    "title": "Microsoft IT outage: NHS cancels operations as many services affected.",
+    "journal": "BMJ",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43025878": {
+    "title": "Gaza: US doctor condemns \"shocking murder\" of fellow surgeon in Israeli attack o",
+    "journal": "BMJ",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43026301": {
+    "title": "Vaccines could be a new frontier in KRAS targeting.",
+    "journal": "Nat Med",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43026321": {
+    "title": "A unified and practical taxonomy for false discovery rate control in omics resea",
+    "journal": "Nat Biotechnol",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43026304": {
+    "title": "A unified framework for defining and analyzing spatial niches in spatial omics d",
+    "journal": "Nat Genet",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43026276": {
+    "title": "Low-order assemblies drive oncogenic RTK fusion signalling without condensation.",
+    "journal": "Nat Cell Biol",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43026275": {
+    "title": "Diffuse assemblies drive oncogenic signalling.",
+    "journal": "Nat Cell Biol",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43026320": {
+    "title": "The deep learning framework Hist2Prot infers single-cell spatial proteomics from",
+    "journal": "Nat Cancer",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43026322": {
+    "title": "Rewiring dendritic cell function with CLEC9A and DEC205 CARs.",
+    "journal": "Nat Immunol",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43026327": {
+    "title": "Enhancer-targeted CRISPR-A rescues haploinsufficiency and mutant phenotypes in o",
+    "journal": "Nat Neurosci",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43025423": {
+    "title": "Antibiotics counteracting tumor-promoting dysbiosis in colorectal cancer.",
+    "journal": "Cancer Cell",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43025422": {
+    "title": "Targeting F.nucleatum with metronidazole plus tislelizumab and fruquintinib in M",
+    "journal": "Cancer Cell",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43025425": {
+    "title": "Human interferon-α autoantibody development broadens reactivity and enables func",
+    "journal": "Immunity",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43026565": {
+    "title": "G-quadruplex profiling using single-cell CUT&Tag offers insight into the epigene",
+    "journal": "Genome Biol",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "41188035": {
+    "title": "Epigenomics of embryogenesis in turbot.",
+    "journal": "Genome Res",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "41125443": {
+    "title": "Genomic regulatory landscape underlying the antiviral response of Atlantic salmo",
+    "journal": "Genome Res",
+    "date": "2026-11-15",
+    "pushed": true
+  },
+  "43026274": {
+    "title": "Structure-based virtual screening with AlphaFold identifies CLIP1-LTK inhibitors",
+    "journal": "Acta Pharmacol Sin",
+    "date": "2026-11-15",
+    "pushed": true
   }
 }
