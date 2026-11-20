@@ -14623,5 +14623,287 @@
     "journal": "Blood",
     "date": "2026-11-19",
     "pushed": true
+  },
+  "43057688": {
+    "title": "Calcium catalysed nucleophilic fluorination.",
+    "journal": "Nature",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43056473": {
+    "title": "Pinpointing planned speech.",
+    "journal": "Science",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43056472": {
+    "title": "Mammalian development, recorded and decoded.",
+    "journal": "Science",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43056471": {
+    "title": "A quantum paradox at work.",
+    "journal": "Science",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43056470": {
+    "title": "In Science Journals.",
+    "journal": "Science",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43056469": {
+    "title": "In Other Journals.",
+    "journal": "Science",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057230": {
+    "title": "Genome writing reveals SVA retrotransposon consequences in X-linked dystonia-par",
+    "journal": "Cell",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057229": {
+    "title": "Myelin pathology is a key feature of X-linked dystonia-parkinsonism.",
+    "journal": "Cell",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057228": {
+    "title": "CD19 CAR T cell therapy alters disease-associated immune signatures in multiple ",
+    "journal": "Cell",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057227": {
+    "title": "RNA folding drives species-dependent host mRNA partitioning in Ebola virus conde",
+    "journal": "Cell",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057226": {
+    "title": "A natural mutation of timeless enhances mosquito thermal adaptation and malaria ",
+    "journal": "Cell",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057279": {
+    "title": "Spontaneous coronary artery dissection: implications for women's health, clinica",
+    "journal": "Lancet",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057278": {
+    "title": "Seasonal mass vaccination for malaria control in west Africa.",
+    "journal": "Lancet",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057277": {
+    "title": "Seasonal mass vaccination with R21/Matrix-M against malaria in The Gambia and Bu",
+    "journal": "Lancet",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057276": {
+    "title": "Reproductive health in women in Britain from 2010 to 2024: findings from repeate",
+    "journal": "Lancet",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43056497": {
+    "title": "Plasma eMTBR-tau as a Biomarker for Chronic Traumatic Encephalopathy Tau Tangle ",
+    "journal": "JAMA",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43056493": {
+    "title": "Plasma eMTBR-Tau as a Potential Biomarker Across Tauopathies.",
+    "journal": "JAMA",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43056124": {
+    "title": "Global Burden of Disease Assessment of Elevated LDL-C.",
+    "journal": "JAMA",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43056112": {
+    "title": "Some Anniversaries of 1926.",
+    "journal": "JAMA",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43056111": {
+    "title": "Pediatric Medical Imaging and Brain Tumor Risk.",
+    "journal": "JAMA",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057712": {
+    "title": "Doctor who gave cancer patient vitamin C injections in Norway is struck off in U",
+    "journal": "BMJ",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057707": {
+    "title": "Choosing dialysis in older people . . . and other research.",
+    "journal": "BMJ",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057705": {
+    "title": "Covid inquiry: UK was \"woefully ill prepared\" for Test and Trace and spent £25bn",
+    "journal": "BMJ",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43052571": {
+    "title": "Author Correction: The global patent landscape of bispecific antibodies: technol",
+    "journal": "Nat Biotechnol",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43052484": {
+    "title": "Regularized ensemble polygenic risk prediction with GWAS summary statistics.",
+    "journal": "Nat Genet",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43052497": {
+    "title": "Designer mucin-responsive nanomedicine for enhanced solid tumour penetration and",
+    "journal": "Nat Biomed Eng",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43052370": {
+    "title": "Author Correction: Mitochondria-localised ZNFX1 functions as a dsRNA sensor to i",
+    "journal": "Nat Cell Biol",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43052564": {
+    "title": "Publisher Correction: Reframing cancer therapy through tumor plasticity.",
+    "journal": "Nat Cancer",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43052563": {
+    "title": "Author Correction: Recapitulating the adenoma-carcinoma sequence by selection of",
+    "journal": "Nat Cancer",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43052562": {
+    "title": "Single-cell states meet clinical outcomes in lung cancer.",
+    "journal": "Nat Cancer",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43052404": {
+    "title": "Author Correction: An aging-sensitive secreted phospholipase confers neuroprotec",
+    "journal": "Nat Neurosci",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43052403": {
+    "title": "Neotenic expansion of adult-born dentate granule cells reconfigures GABAergic in",
+    "journal": "Nat Neurosci",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057233": {
+    "title": "Genomic mediators of acquired resistance to immunotherapy in metastatic melanoma",
+    "journal": "Cancer Cell",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057232": {
+    "title": "The neural mechanisms of fast versus slow decision-making.",
+    "journal": "Neuron",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057234": {
+    "title": "Modeling human B cell development and plasma cell generation with pluripotent st",
+    "journal": "Cell Stem Cell",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057211": {
+    "title": "Beneath the surface: Hidden degrons and untapped ligases for molecular glue degr",
+    "journal": "Mol Cell",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057210": {
+    "title": "When two become one: Chimeric RNAs regulating innate immunity.",
+    "journal": "Mol Cell",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057209": {
+    "title": "Amyloid couriers for the sperm RNA code.",
+    "journal": "Mol Cell",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057208": {
+    "title": "The METTL orchestra plays on a loop, keeping the volume just right.",
+    "journal": "Mol Cell",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057207": {
+    "title": "Synthetic viability: FANCM loss enhances the fitness of BRCA2 mutant cells.",
+    "journal": "Mol Cell",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057237": {
+    "title": "Population-scale identification of gut commensals that antagonize antibiotic-res",
+    "journal": "Cell Host Microbe",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43057236": {
+    "title": "Intracellular defenses and receptor masking both limit the success of a clinical",
+    "journal": "Cell Host Microbe",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43052463": {
+    "title": "Identifying convergent pathophysiology in ASD models.",
+    "journal": "Cell Res",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43055924": {
+    "title": "Maternal prenatal gut microbiome and domain-specific neurodevelopment in early c",
+    "journal": "Sci China Life Sci",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43055923": {
+    "title": "Uncovering global gene action patterns via learnable genotype encoding.",
+    "journal": "Sci China Life Sci",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43055921": {
+    "title": "The structural proteins of PEDV capture IFITM1 to participate in the life cycle ",
+    "journal": "Sci China Life Sci",
+    "date": "2026-11-20",
+    "pushed": true
+  },
+  "43055920": {
+    "title": "ROCK2 as a therapeutic target for liver fibrosis.",
+    "journal": "Sci China Life Sci",
+    "date": "2026-11-20",
+    "pushed": true
   }
 }
